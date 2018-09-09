@@ -12,4 +12,4 @@ L'Ecole 42 FdF project. Simple graphics project:
   make
   
 ## Run:
- ./fdf <map> 
+ ./fdf \<map\>
